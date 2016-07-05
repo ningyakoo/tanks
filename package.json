@@ -1,5 +1,5 @@
 {
-  "name": "carstroid",
+  "name": "tanks",
   "version": "0.0.0",
   "description": "A 2d tile-based world built with Phaser framework. Eventually intended to be made multiplayer",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alvaromrx/carstroid.git"
+    "url": "https://github.com/Alvaromrx/tanks.git"
   },
   "keywords": [
     "mmo"
@@ -16,7 +16,7 @@
   "author": "Ningyakoo",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/Alvaromrx/carstroid/issues"
+    "url": "https://github.com/Alvaromrx/tanks/issues"
   },
   "dependencies": {
     "express": "~4.10.6",
